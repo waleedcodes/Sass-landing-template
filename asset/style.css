@@ -473,6 +473,7 @@ p {
   .nav_ul {
     width: 100%;
     flex-direction: column;
+    padding-right: 0;
   }
   .nav_btn {
     width: 100%;
@@ -483,6 +484,7 @@ p {
   .bar {
     display: block;
     cursor: pointer;
+    /* margin-right: 40px; */
   }
 
   .mobile-nav {
